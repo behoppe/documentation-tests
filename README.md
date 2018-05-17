@@ -1,5 +1,7 @@
 # README #
 
+## I used this repository to test different aspects of the Bitbucket API and other things when I was writing more than leading
+
 This README would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? ###
